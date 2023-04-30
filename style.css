@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  input[type="number"] {
+    width: 70px;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  button {
+    font-size: 18px;
+    background-color: #333d99;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #6a75a3;
+  }
+  
+  #promedio {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
